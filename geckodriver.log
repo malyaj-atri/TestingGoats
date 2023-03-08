@@ -1,0 +1,29 @@
+1678236773830	geckodriver	INFO	Listening on 127.0.0.1:57740
+1678236774222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57741" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mq/6j8378cd7j5ddx3bqx9x1mk80000gr/T/rust_mozprofileJnkW50"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678236774657	Marionette	INFO	Marionette enabled
+1678236774758	Marionette	INFO	Listening on port 57750
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:57741
+Read port: 57750
+1678236774968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mq/6j8378cd7j5ddx3bqx9x1mk80000gr/T/rust_mozprofileJnkW50/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57741/devtools/browser/d0f64b21-ba21-462a-8050-bd77f96fb9fc
+1678236775968	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1678236826506	geckodriver	INFO	Listening on 127.0.0.1:57822
+1678236827025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57823" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mq/6j8378cd7j5ddx3bqx9x1mk80000gr/T/rust_mozprofileebfZgq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678236827432	Marionette	INFO	Marionette enabled
+1678236827517	Marionette	INFO	Listening on port 57828
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 57828
+WebDriver BiDi listening on ws://127.0.0.1:57823
+1678236827617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mq/6j8378cd7j5ddx3bqx9x1mk80000gr/T/rust_mozprofileebfZgq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57823/devtools/browser/5cb3415a-36e4-4299-8912-9ff774b03dc7
+1678236836064	Marionette	INFO	Stopped listening on port 57828
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678236838174	Marionette	INFO	Stopped listening on port 57750
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
